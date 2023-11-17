@@ -1,10 +1,10 @@
 File 2 Added. Added Some Content
 New 
 Branch
-<<<<<<< HEAD
+
 FF merge
 New Content
-=======
+
 sign up issue
->>>>>>> bugfix/signu-issue
+
 Change Two
